@@ -1,3 +1,6 @@
+# Session files come with Telegram logs. And don't share anyone
+*.session
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
